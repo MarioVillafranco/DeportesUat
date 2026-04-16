@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Nombre del Juego 1",
+    "cover": "{COVER_URL}/imagen1.jpg",
+    "url": "{HTML_URL}/juego1.html",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Nombre del Juego 2",
+    "cover": "{COVER_URL}/imagen2.jpg",
+    "url": "{HTML_URL}/juego2.html",
+    "featured": false
+  }
+]
